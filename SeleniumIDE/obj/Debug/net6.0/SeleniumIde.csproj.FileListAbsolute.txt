@@ -104,3 +104,4 @@ C:\Users\apost\Downloads\05-SeleniumIDE\SeleniumIDE\SeleniumIDE\obj\Debug\net6.0
 C:\Users\apost\Downloads\05-SeleniumIDE\SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.pdb
 C:\Users\apost\Downloads\05-SeleniumIDE\SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.genruntimeconfig.cache
 C:\Users\apost\Downloads\05-SeleniumIDE\SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\ref\SeleniumIde.dll
+C:\Users\apost\Downloads\05-SeleniumIDE\SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
