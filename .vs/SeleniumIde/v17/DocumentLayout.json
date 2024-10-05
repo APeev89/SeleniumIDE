@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
               "ToolTip": "C:\\Users\\apost\\Downloads\\05-SeleniumIDE\\SeleniumIDE\\SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
               "RelativeToolTip": "SeleniumIDE\\TC01IfUserIsInvalidTryAgainTest1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAZAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T20:27:34.344Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SeleniumIde",
+              "Title": "SeleniumIde.csproj",
               "DocumentMoniker": "C:\\Users\\apost\\Downloads\\05-SeleniumIDE\\SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
               "RelativeDocumentMoniker": "SeleniumIDE\\SeleniumIde.csproj",
               "ToolTip": "C:\\Users\\apost\\Downloads\\05-SeleniumIDE\\SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
               "RelativeToolTip": "SeleniumIDE\\SeleniumIde.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-05T20:26:22.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T20:26:22.324Z"
             }
           ]
         }
